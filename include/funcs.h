@@ -3,6 +3,6 @@
 #include <stdio.h>
 
 void foo();
-void goo();
+void goo(int a);
 
 #endif // __FUNCS_H__

@@ -1,7 +1,7 @@
 #include "funcs.h"
 
 int main(){
-    foo(300);
+    foo(3090);
     goo();
     return 0;
 }
